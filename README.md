@@ -1,7 +1,7 @@
 # Student Performance Predictor
 
 ## Overview
-This project predicts student exam scores using Machine Learning.
+This project predicts student final scores using Machine Learning.
 
 ## Technologies Used
 - Python
@@ -12,6 +12,3 @@ This project predicts student exam scores using Machine Learning.
 - Reads student data from CSV
 - Trains a Linear Regression model
 - Predicts final scores
-
-## Author
-Avikam
